@@ -1,0 +1,18 @@
+.container-fluid{
+    min-height: 100vh;
+}
+.content{
+    width: 50%;
+}
+.content h4{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800;
+}
+ .container input{
+    border: 1px solid black;
+ }
+ .container button{
+    background-color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ 
